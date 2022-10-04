@@ -10,7 +10,7 @@ class Main {
     System.out.println(" 1. Test f1 (1 mark)");
     System.out.println(" 2. Test f2 (1 mark)");
     System.out.println(" 3. Test f3 (1 mark)");
-    System.out.println(" 4. Test f4 (1 mark)");
+    System.out.println(" 4. Test f8 (1 mark)");
     System.out.print("    Your selection (1 -> 4): ");
     choice = sca.nextInt();
     sca.nextLine();
